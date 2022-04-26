@@ -42,7 +42,7 @@ body {
 
 .destination:hover h2 {
     transform: rotate(0deg);
-    
+
 }
 
 h2 {
@@ -58,4 +58,12 @@ h2 {
 
 #barcelona {
     background-color: #800000;
+}
+
+#florida {
+    background-color: blueviolet;
+}
+
+#paris {
+    background-color: greenyellow;
 }
